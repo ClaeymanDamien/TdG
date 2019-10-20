@@ -1,0 +1,21 @@
+	0	1	2	3	4	5	
+	 ==========================================
+Init    |0(0)	i	i	i	i	i	
+1       |0(0)	i	i	i	i	i	
+
+
+Sommet 0:
+Le chemin le plus court est :
+-->[0]
+Avec un poid de : 0
+
+Sommet 1:
+Ce sommet est inaccessible.
+Sommet 2:
+Ce sommet est inaccessible.
+Sommet 3:
+Ce sommet est inaccessible.
+Sommet 4:
+Ce sommet est inaccessible.
+Sommet 5:
+Ce sommet est inaccessible.

@@ -1,0 +1,59 @@
+	     0    1    2    3    4    5    6    7
+            ============================================================
+    0	|    .  5_0    i    i    i    i    i    i
+   01	|    .    .  5_1    i 10_1  6_1    i    i
+  012	|    .    .    .    i 10_1  6_1  6_2    i
+ 0125	|    .    .    .    i  8_5    .  6_2    i
+01256	|    .    .    .    i  8_5    .    . 10_6
+012564	|    .    .    .    i    .    .    . 10_6
+0125647	|    .    .    . 11_7    .    .    .    .
+01256473	|    .    .    .    .    .    .    .    .
+
+Sommet 0
+Le chemin le plus court est : 
+-->[0]
+Pour un poids de 0
+
+
+Sommet 1
+Le chemin le plus court est : 
+-->[0, 1]
+Pour un poids de 5
+
+
+Sommet 2
+Le chemin le plus court est : 
+-->[0, 1, 2]
+Pour un poids de 5
+
+
+Sommet 3
+Le chemin le plus court est : 
+-->[0, 1, 2, 6, 7, 3]
+Pour un poids de 11
+
+
+Sommet 4
+Le chemin le plus court est : 
+-->[0, 1, 5, 4]
+Pour un poids de 8
+
+
+Sommet 5
+Le chemin le plus court est : 
+-->[0, 1, 5]
+Pour un poids de 6
+
+
+Sommet 6
+Le chemin le plus court est : 
+-->[0, 1, 2, 6]
+Pour un poids de 6
+
+
+Sommet 7
+Le chemin le plus court est : 
+-->[0, 1, 2, 6, 7]
+Pour un poids de 10
+
+

@@ -1,0 +1,41 @@
+	0	1	2	3	4	5	
+	 ==========================================
+Init    |0(0)	i	i	i	i	i	
+1       |0(0)	1(0)	i	i	i	i	
+2       |0(0)	1(0)	3(1)	i	i	i	
+3       |0(0)	1(0)	3(1)	6(2)	i	i	
+4       |0(0)	1(0)	3(1)	6(2)	10(3)	i	
+5       |0(0)	1(0)	3(1)	6(2)	10(3)	15(4)	
+Check   |0(0)	1(0)	3(1)	6(2)	10(3)	15(4)	
+
+
+Sommet 0:
+Le chemin le plus court est :
+-->[0]
+Avec un poid de : 0
+
+Sommet 1:
+Le chemin le plus court est :
+-->[0, 1]
+Avec un poid de : 1
+
+Sommet 2:
+Le chemin le plus court est :
+-->[0, 1, 2]
+Avec un poid de : 3
+
+Sommet 3:
+Le chemin le plus court est :
+-->[0, 1, 2, 3]
+Avec un poid de : 6
+
+Sommet 4:
+Le chemin le plus court est :
+-->[0, 1, 2, 3, 4]
+Avec un poid de : 10
+
+Sommet 5:
+Le chemin le plus court est :
+-->[0, 1, 2, 3, 4, 5]
+Avec un poid de : 15
+
